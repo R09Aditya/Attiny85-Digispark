@@ -1,5 +1,5 @@
 # Attiny85-Digispark
-I am made a digispark attiny85 usb pcb. As this is my first time making a pcb i started with a begginer project and learning through youtube video on step by step guide on making a pcb. It is a very common digispark pendrive used for alot of cybersecurity activities.
+I am made a digispark attiny85 usb pcb. As this is my first time making a pcb i started with a begginer project and learning through youtube video on step by step guide on making a pcb. It is a very common digispark usb tool used for alot of cybersecurity activities and works quite simmilar like usb rubber ducky.
 
 # Why I made this
 First things first, i made this because i just wanted to learn the basic of pcb designing as this is my first time designing a pcb. Also as i am interested into cyber security and ethical hacking i choosed this as my first project.
