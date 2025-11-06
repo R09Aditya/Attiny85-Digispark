@@ -14,3 +14,12 @@ Also had some error when uploading it to PCB editor, so got rid of them as well.
 
   
 
+## 11/6/2025 - Completed the pcb designing  
+
+Made the whole pcb design and also made the whole connection of the elements.
+Had some error with the custom made usb connector, so fixed them by altering the custom footprint and the symbol.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6dba27ddb542d96145a3adf84ccb8a4fd7b252ad/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c47d6c1bb7d78d31c5b05d1ca9e707a3b9508cf/image.png)
+
+  
+
