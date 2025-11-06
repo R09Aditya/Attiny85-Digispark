@@ -21,7 +21,7 @@ First things first, i made this because i just wanted to learn the basic of pcb 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Reference  | Qty | Value       | Footprint                                                   | Product (link)                          | Unit price (₹) | Line total (₹) |
 |------------|-----|-------------|-------------------------------------------------------------|-----------------------------------------|----------------|----------------|
-| C1         | 1   | 100n        | Capacitor_SMD:C_1206_3216Metric                             | 1206B104J500NT-FH (Robu)                | 3.00           | 3.00           |
+| C1         | 1   | 100n        | Capacitor_SMD:C_1206_3216Metric                             | [1206B104J500NT-FH](https://robu.in/product/5mm-green-dip-led-pack-of-50)                | 3.00           | 3.00           |
 | D1, D2     | 2   | 3v6         | Diode_SMD:D_SOD-123                                         | MM3Z3V6T1G (onsemi) (Robu)              | 7.00           | 14.00          |
 | D3         | 1   | LED         | LED_THT:LED_D3.0mm                                          | 5mm Green DIP LED (Pack of 50) (Robu)   | 1.66           | 1.66           |
 | J1, J2     | 2   | Conn_01x04  | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical  | PinHeader_1x04_P2.54mm_Vertical (Robu)  | —              | —              |
