@@ -9,10 +9,10 @@ First things first, i made this because i just wanted to learn the basic of pcb 
 ![Schematics.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/schematic.png)
 
 ## PCB Image
-![Schematics.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB.png)
+![PCB.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB.png)
 
 ## PCB 3d Screenshot Image
-![Schematics.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB_3d_screenshot.png)
+![PCB_3d_screenshot.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB_3d_screenshot.png)
 
 ## PCB 3d Rendered Image
-![Schematics.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB_3d_render.png)
+![PCB_3d_render.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB_3d_render.png)
