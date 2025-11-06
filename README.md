@@ -5,5 +5,4 @@ I am made a digispark attiny85 usb pcb. As this is my first time making a pcb i 
 First things first, i made this because i just wanted to learn the basic of pcb designing as this is my first time designing a pcb. Also as i am interested into cyber security and ethical hacking i choosed this as my first project.
 
 #Screenshots
-
-
+![Schematics.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/schematic.png)
