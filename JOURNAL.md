@@ -23,3 +23,9 @@ Had some error with the custom made usb connector, so fixed them by altering the
 
   
 
+## 11/8/2025 - Made the readme and the BOM  
+
+i have completed it in 2 journals. but i didn't knew that i need minnimum 3 journals to submit the project. So can i now just make a journal of the BOM and readme etc, and keep the time 0.0 hours....I asked in the #blueprint-support a lot of time regarding this but no one replied properly. so i am just making one. So sorry if this is not a proper way to do so....
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a362fa5aa3d63da894381b51bc46bdbe78591afb/image.png)
+  
+
