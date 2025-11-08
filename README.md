@@ -17,7 +17,7 @@ First things first, i made this because i just wanted to learn the basic of pcb 
 ## PCB 3d Rendered Image
 ![PCB_3d_render.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB_3d_render.png)
 
-## 🧾 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Reference  | Qty | Value       | Footprint                                                   | Product (link)                          | Unit price (₹) | Line total (₹) |
 |------------|-----|-------------|-------------------------------------------------------------|-----------------------------------------|----------------|----------------|
