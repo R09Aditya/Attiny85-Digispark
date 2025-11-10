@@ -32,6 +32,6 @@ First things first, i made this because i just wanted to learn the basic of pcb 
 | U2          | 1   | ~              | My_cust_footprint:Untitled                                  | Custom / TBD (Robu) | — | — |
 | M1          | 1   | TP4056 Module  | Module:TP4056_TypeC_USB                                    | [TP4056 3.7V Lithium Battery Charging Module](https://robu.in/product/tp4056-3-7v-lithium-battery-charging-module-1a-usb-type-c-port-ph2-0-terminal) | 49.00 | 49.00 |
 | B1          | 1   | 5200 mAh Li-Po | Battery:LiPo_1S                                           | [Orange 5200 mAh 3.7 V Li-Po Battery](https://robu.in/product/orange-5200mah-1s-25c-3-7-v-lithium-polymer-battery-pack-li-po) | 1,099.00 | 1,099.00 |
-| PCB         | 1   | 2-layer PCB    | Custom PCB (Digispark ATTiny85 USB)                         | PCB Printing Service (Robu) | 500.00 | 500.00 |
+| PCB         | 1   | 2-layer PCB    | Custom PCB (Digispark ATTiny85 USB)                         | PCB Printing Service (Robu) | 5163.00 | 5163.00 |
 
 ---
