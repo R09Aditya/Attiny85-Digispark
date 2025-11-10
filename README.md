@@ -30,8 +30,6 @@ First things first, i made this because i just wanted to learn the basic of pcb 
 | R4          | 1   | 1k5            | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [RC0805FR-071K5L-YAGEO](https://robu.in/product/rc0805fr-071k5l-yageo-res-thick-film-0805-1-5k-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r) | 0.25 | 0.25 |
 | U1          | 1   | ATtiny85-20S   | Package_SO:SOIC-8_5.3x5.3mm_P1.27mm                         | [ATTINY85-20SUR](https://robu.in/product/attiny85-20sur-microchip-8-bit-mcu-avr-attiny-family-attiny85-series-microcontrollers-avr-20-mhz-8-kb-8-pins-soij) | 262.00 | 262.00 |
 | U2          | 1   | ~              | My_cust_footprint:Untitled                                  | Custom / TBD (Robu) | — | — |
-| M1          | 1   | TP4056 Module  | Module:TP4056_TypeC_USB                                    | [TP4056 3.7V Lithium Battery Charging Module](https://robu.in/product/tp4056-3-7v-lithium-battery-charging-module-1a-usb-type-c-port-ph2-0-terminal) | 49.00 | 49.00 |
-| B1          | 1   | 5200 mAh Li-Po | Battery:LiPo_1S                                           | [Orange 5200 mAh 3.7 V Li-Po Battery](https://robu.in/product/orange-5200mah-1s-25c-3-7-v-lithium-polymer-battery-pack-li-po) | 1,099.00 | 1,099.00 |
 | PCB         | 1   | 2-layer PCB    | Custom PCB (Digispark ATTiny85 USB)                         | PCB Printing Service (Robu) | 5163.00 | 5163.00 |
 
 ---
