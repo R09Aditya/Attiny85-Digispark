@@ -18,16 +18,20 @@ First things first, i made this because i just wanted to learn the basic of pcb 
 ![PCB_3d_render.png](https://raw.githubusercontent.com/R09Aditya/Attiny85-Digispark/refs/heads/main/screenshots/PCB_3d_render.png)
 
 ## Bill of Materials (BOM)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Reference  | Qty | Value       | Footprint                                                   | Product (link)                          | Unit price (₹) | Line total (₹) |
-|------------|-----|-------------|-------------------------------------------------------------|-----------------------------------------|----------------|----------------|
-| C1         | 1   | 100n        | Capacitor_SMD:C_1206_3216Metric                             | [1206B104J500NT-FH](https://robu.in/product/1206b104j500nt-fh-50v-100nf-x7r±5-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs)                | 3.00           | 3.00           |
-| D1, D2     | 2   | 3v6         | Diode_SMD:D_SOD-123                                         | [MM3Z3V6T1G](https://robu.in/product/mm3z3v6t1g-onsemi-independent-3-4v3-8v-300mw-3-6v-sod-323-zener-diodes-rohs)              | 7.00           | 14.00          |
-| D3         | 1   | LED         | LED_THT:LED_D3.0mm                                          | [5mm Green DIP LED](https://robu.in/product/5mm-green-dip-led-pack-of-50)   | 1.66           | 1.66           |
-| J1, J2     | 2   | Conn_01x04  | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical  | PinHeader_1x04_P2.54mm_Vertical (Robu)  | —              | —              |
-| R1, R2     | 2   | 68R         | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [AC0805FR-0768RL-YAGEO](https://robu.in/product/ac0805fr-0768rl-yageo-res-thick-film-0805-68-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r-automotive-aec-q200)            | 0.51           | 1.02           |
-| R3         | 1   | 330R        | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [RC0805FR-07330RL-YAGEO](https://robu.in/product/rc0805fr-07330rl-yageo-res-thick-film-0805-330-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r)           | 0.25           | 0.25           |
-| R4         | 1   | 1k5         | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [RC0805FR-071K5L-YAGEO](https://robu.in/product/rc0805fr-071k5l-yageo-res-thick-film-0805-1-5k-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r)            | 0.25           | 0.25           |
-| U1         | 1   | ATtiny85-20S| Package_SO:SOIC-8_5.3x5.3mm_P1.27mm                         | [ATTINY85-20SUR](https://robu.in/product/attiny85-20sur-microchip-8-bit-mcu-avr-attiny-family-attiny85-series-microcontrollers-avr-20-mhz-8-kb-8-pins-soij)                   | 262.00         | 262.00         |
-| U2         | 1   | ~           | My_cust_footprint:Untitled                                  | Custom / TBD (Robu)                     | —              | —              |
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Reference  | Qty | Value           | Footprint                                                   | Product (link) | Unit price (₹) | Line total (₹) |
+|-------------|-----|----------------|-------------------------------------------------------------|----------------|----------------|----------------|
+| C1          | 1   | 100n           | Capacitor_SMD:C_1206_3216Metric                             | [1206B104J500NT-FH](https://robu.in/product/1206b104j500nt-fh-50v-100nf-x7r±5-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs) | 3.00  | 3.00  |
+| D1, D2      | 2   | 3v6            | Diode_SMD:D_SOD-123                                         | [MM3Z3V6T1G](https://robu.in/product/mm3z3v6t1g-onsemi-independent-3-4v3-8v-300mw-3-6v-sod-323-zener-diodes-rohs) | 7.00  | 14.00 |
+| D3          | 1   | LED            | LED_THT:LED_D3.0mm                                          | [5mm Green DIP LED](https://robu.in/product/5mm-green-dip-led-pack-of-50) | 1.66  | 1.66  |
+| J1, J2      | 2   | Conn_01x04     | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical  | PinHeader_1x04_P2.54mm_Vertical (Robu) | — | — |
+| R1, R2      | 2   | 68R            | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [AC0805FR-0768RL-YAGEO](https://robu.in/product/ac0805fr-0768rl-yageo-res-thick-film-0805-68-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r-automotive-aec-q200) | 0.51 | 1.02 |
+| R3          | 1   | 330R           | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [RC0805FR-07330RL-YAGEO](https://robu.in/product/rc0805fr-07330rl-yageo-res-thick-film-0805-330-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r) | 0.25 | 0.25 |
+| R4          | 1   | 1k5            | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    | [RC0805FR-071K5L-YAGEO](https://robu.in/product/rc0805fr-071k5l-yageo-res-thick-film-0805-1-5k-ohm-1-0-125w1-8w-±100ppm-c-pad-smd-t-r) | 0.25 | 0.25 |
+| U1          | 1   | ATtiny85-20S   | Package_SO:SOIC-8_5.3x5.3mm_P1.27mm                         | [ATTINY85-20SUR](https://robu.in/product/attiny85-20sur-microchip-8-bit-mcu-avr-attiny-family-attiny85-series-microcontrollers-avr-20-mhz-8-kb-8-pins-soij) | 262.00 | 262.00 |
+| U2          | 1   | ~              | My_cust_footprint:Untitled                                  | Custom / TBD (Robu) | — | — |
+| M1          | 1   | TP4056 Module  | Module:TP4056_TypeC_USB                                    | [TP4056 3.7V Lithium Battery Charging Module](https://robu.in/product/tp4056-3-7v-lithium-battery-charging-module-1a-usb-type-c-port-ph2-0-terminal) | 49.00 | 49.00 |
+| B1          | 1   | 5200 mAh Li-Po | Battery:LiPo_1S                                           | [Orange 5200 mAh 3.7 V Li-Po Battery](https://robu.in/product/orange-5200mah-1s-25c-3-7-v-lithium-polymer-battery-pack-li-po) | 1,099.00 | 1,099.00 |
+| PCB         | 1   | 2-layer PCB    | Custom PCB (Digispark ATTiny85 USB)                         | PCB Printing Service (Robu) | 150.00 | 150.00 |
+
+---
